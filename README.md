@@ -1,4 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Projoy Naidu
+
+🚀 Frontend Developer | Founder of [VueNexus](https://vuenexus.dev)  
+💡 I create AI-powered tools, templates & tutorials — all 100% free.
+
+---
+
+## 🔧 Technologies I Love
+
+- Vue.js, Nuxt 3, Tailwind CSS  
+- JavaScript (ES6+), Vite, Markdown  
+- OpenAI API, GPT, Netlify, Firebase
+
+---
+
+## 🌱 My Mission
+
+> "Make frontend development faster, smarter, and accessible — with the power of open-source & AI."
+
+---
+
+## 🔗 Let's Connect
+
+- 🌐 [VueNexus.dev](https://vuenexus.dev)  
+- 💬 [LinkedIn](https://linkedin.com/in/projoynaidu)  
+- 🐦 [Twitter](https://twitter.com/joinvnexus)  
+- 📩 Email: seoexpertprojoy@gmail.com
+
+
+---
+
+## 📌 Featured Projects
+
+- 🔗 [VueStart](https://github.com/vuenexus/vue-start) — Vue 3 Starter Template  
+- 🤖 [AI Chat UI](https://github.com/vuenexus/ai-chat-vue) — GPT-powered Vue chatbot  
+- 🛠️ [WP2Vue Migrator](https://github.com/vuenexus/wp2vue) — WordPress → Vue tool
+
+---
+
+💙 Always open for collaboration, contribution, and conversation.
 
 <!--
 **projoynaidu-cmd/projoynaidu-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
