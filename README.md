@@ -36,6 +36,11 @@
 - 🛠️ [WP2Vue Migrator](https://github.com/vuenexus/wp2vue) — WordPress → Vue tool
 
 ---
+## 📄 License
+
+All VueNexus resources are released under the **Creative Commons Attribution 4.0 (CC BY 4.0)** license.
+
+> Use it, remix it, and share it — with credit. 💙
 
 💙 Always open for collaboration, contribution, and conversation.
 
