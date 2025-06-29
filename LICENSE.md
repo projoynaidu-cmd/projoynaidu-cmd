@@ -15,7 +15,7 @@ You may do so in any reasonable manner, but not in any way that suggests the lic
 ---
 
 ## Recommended Attribution:
-> Resource by [VueNexus](https://github.com/vuenexus) – Licensed under CC BY 4.0  
+> Resource by [Projoy Naidu – VueNexus](https://github.com/projoynaidu-cmd)  – Licensed under CC BY 4.0  
 > License: https://creativecommons.org/licenses/by/4.0/
 
 ---
