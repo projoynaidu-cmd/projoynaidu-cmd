@@ -63,7 +63,7 @@ I’m committed to sharing what I build, learn, and improve so other developers 
 - 🌐 Website: [VueNexus.dev](https://vuenexus.dev/)
 - 💬 LinkedIn: [linkedin.com/in/projoynaidu](https://linkedin.com/in/projoynaidu)
 - 🐦 Twitter: [@joinvnexus](https://twitter.com/joinvnexus)
-- 📩 Email: [seoexpertprojoy@gmail.com](mailto:seoexpertprojoy@gmail.com)
+- 📩 Email: [projoy.naidu.dev@gmail.com](mailto:projoy.naidu.dev@gmail.com)
 
 ---
 
@@ -71,7 +71,7 @@ I’m committed to sharing what I build, learn, and improve so other developers 
 
 All VueNexus projects and resources are licensed under  
 **Creative Commons Attribution 4.0 (CC BY 4.0)**  
-Use them freely — just remember to credit 💙
+Use them freely — remember to credit 💙
 
 ---
 
