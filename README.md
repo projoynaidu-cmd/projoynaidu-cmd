@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Projoy Naidu  
-🚀 Full Stack Web Developer | Founder of [VueNexus](https://vuenexus.dev/)  
+🚀 Front-end Web Developer | Founder of [VueNexus](https://vuenexus.dev/)  
 💡 I build AI-powered tools, templates & tutorials — all 100% free and open-source.
 
 ---
